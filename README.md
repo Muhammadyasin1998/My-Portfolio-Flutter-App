@@ -1,8 +1,6 @@
 # My Portfolio App
 
 
-![Personal Portfolio Cover](https://github.com/MuhammadDaniyal32/My-Portfolio-FlutterApp/assets/55941433/94cabcfa-d2cb-4d6e-b330-dab46bc22125)
-
 ## Description
 
 This project is a portfolio website developed using Flutter Web, following the Stacked architecture pattern. It is designed to be a fully responsive web application and also supports an Android application build. The website showcases personal projects, skills, experience, and other professional information, providing an elegant and interactive platform for users to explore the portfolio.
