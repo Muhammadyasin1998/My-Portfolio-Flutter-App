@@ -57,22 +57,21 @@ List projectList = [
     shortDescription:
         'A social networking app that encourages real-life connections, social gathering planning, and real-time chats with proximity-based discovery and privacy control.',
     bannerList: [
-      'assets/project_banners/noca_banner_1.png',
-      'assets/project_banners/noca_banner_2.png',
+      "assets/images/noca.png",
     ],
     projectIcon: 'assets/project_banners/noca_logo.png',
     projectGithubLink: '',
     projectLiveLink:
         'https://youtu.be/noca_demo_link', // Replace with actual link if available
     techStackIconList: [
-      'assets/images/flutter.png',
-      'assets/images/firebase-icon.png',
-      'assets/images/nodejs.png',
-      'assets/images/restapi-icon.png',
-      'assets/images/websocket-icon.png',
-      'assets/images/twilio-icon.png',
-      'assets/images/google-maps.png',
-      'assets/images/chat-icon.png',
+      // 'assets/images/flutter.png',
+      // 'assets/images/firebase-icon.png',
+      // 'assets/images/nodejs.png',
+      // 'assets/images/restapi-icon.png',
+      // 'assets/images/websocket-icon.png',
+      // 'assets/images/twilio-icon.png',
+      // 'assets/images/google-maps.png',
+      // 'assets/images/chat-icon.png',
     ],
   ),
   ProjectModel(
@@ -116,24 +115,24 @@ List projectList = [
     shortDescription:
         'A Fiverr-style freelancing app connecting clients and freelancers globally with gig listings, secure payments, real-time chat, and rating system.',
     bannerList: [
-      'assets/project_banners/gigsplus_banner_1.png',
-      'assets/project_banners/gigsplus_banner_2.png',
+      'assets/images/edugigs.png',
+   
     ],
     projectIcon: 'assets/project_banners/gigsplus_logo.png',
     projectGithubLink: '',
     projectLiveLink:
         'https://youtu.be/gigsplus_demo_link', // Replace with actual demo link if available
     techStackIconList: [
-      'assets/images/flutter.png',
-      'assets/images/nodejs.png',
-      'assets/images/postman-icon.png',
-      'assets/images/stripe-icon.png',
-      'assets/images/firebase-icon.png',
-      'assets/images/google-icon.png',
-      'assets/images/apple-icon.png',
-      'assets/images/jira-icon.png',
-      'assets/images/restapi-icon.png',
-      'assets/images/chat-icon.png',
+      // 'assets/images/flutter.png',
+      // 'assets/images/nodejs.png',
+      // 'assets/images/postman-icon.png',
+      // 'assets/images/stripe-icon.png',
+      // 'assets/images/firebase-icon.png',
+      // 'assets/images/google-icon.png',
+      // 'assets/images/apple-icon.png',
+      // 'assets/images/jira-icon.png',
+      // 'assets/images/restapi-icon.png',
+      // 'assets/images/chat-icon.png',
     ],
   ),
   ProjectModel(
@@ -174,13 +173,13 @@ List projectList = [
     projectLiveLink:
         'https://youtu.be/veew_demo_link', // Replace with actual video link if any
     techStackIconList: [
-      'assets/images/flutter.png',
-      'assets/images/firebase-icon.png',
-      'assets/images/nodejs.png',
-      'assets/images/restapi-icon.png',
-      'assets/images/google-icon.png',
-      'assets/images/cloud-storage.png',
-      'assets/images/social-media-icon.png',
+      // 'assets/images/flutter.png',
+      // 'assets/images/firebase-icon.png',
+      // 'assets/images/nodejs.png',
+      // 'assets/images/restapi-icon.png',
+      // 'assets/images/google-icon.png',
+      // 'assets/images/cloud-storage.png',
+      // 'assets/images/social-media-icon.png',
     ],
   ),
   ProjectModel(
@@ -218,11 +217,11 @@ List projectList = [
     projectLiveLink:
         'https://youtu.be/journal_demo_link', // Replace with actual link
     techStackIconList: [
-      'assets/images/flutter.png',
-      'assets/images/sqflite-icon.png',
-      'assets/images/notification-icon.png',
-      'assets/images/offline-mode-icon.png',
-      'assets/images/task-icon.png',
+      // 'assets/images/flutter.png',
+      // 'assets/images/sqflite-icon.png',
+      // 'assets/images/notification-icon.png',
+      // 'assets/images/offline-mode-icon.png',
+      // 'assets/images/task-icon.png',
     ],
   ),
   ProjectModel(
@@ -257,20 +256,20 @@ List projectList = [
     shortDescription:
         'A Flutter app that enables intelligent, ChatGPT-powered conversations with premium features, offline access, and Google Sign-In.',
     bannerList: [
-      'assets/project_banners/oratori_banner_1.png',
-      'assets/project_banners/oratori_banner_2.png',
+      'assets/images/oratori.png',
+    
     ],
     projectIcon: 'assets/project_banners/oratori_logo.png',
     projectGithubLink: '',
     projectLiveLink:
         'https://youtu.be/oratori_demo_link', // Replace with actual link
     techStackIconList: [
-      'assets/images/flutter.png',
-      'assets/images/chatgpt-icon.png',
-      'assets/images/sqflite-icon.png',
-      'assets/images/google-icon.png',
-      'assets/images/riverpod-icon.png',
-      'assets/images/inapp-purchase-icon.png',
+      // 'assets/images/flutter.png',
+      // 'assets/images/chatgpt-icon.png',
+      // 'assets/images/sqflite-icon.png',
+      // 'assets/images/google-icon.png',
+      // 'assets/images/riverpod-icon.png',
+      // 'assets/images/inapp-purchase-icon.png',
     ],
   ),
   ProjectModel(
@@ -304,20 +303,20 @@ List projectList = [
     shortDescription:
         'A Flutter-based dynamic news application offering real-time headlines, personalized content, student discounts, and a reward system.',
     bannerList: [
-      'assets/project_banners/timio_banner_1.png',
-      'assets/project_banners/timio_banner_2.png',
+      'assets/images/timio.png',
+    
     ],
     projectIcon: 'assets/project_banners/timio_logo.png',
     projectGithubLink: '',
     projectLiveLink:
         'https://youtu.be/timio_demo_link', // Replace with actual demo link if available
     techStackIconList: [
-      'assets/images/flutter.png',
-      'assets/images/firebase.png',
-      'assets/images/news-api-icon.png',
-      'assets/images/inapp-purchase-icon.png',
-      'assets/images/cloud-function-icon.png',
-      'assets/images/student-discount-icon.png',
+      // 'assets/images/flutter.png',
+      // 'assets/images/firebase.png',
+      // 'assets/images/news-api-icon.png',
+      // 'assets/images/inapp-purchase-icon.png',
+      // 'assets/images/cloud-function-icon.png',
+      // 'assets/images/student-discount-icon.png',
     ],
   ),
   ProjectModel(
@@ -363,10 +362,212 @@ List projectList = [
     projectLiveLink:
         'https://youtu.be/taxcorp_demo_link', // Replace with actual demo if available
     techStackIconList: [
-      'assets/images/flutter.png',
-      'assets/images/nodejs-icon.png',
-      'assets/images/firebase.png',
-      'assets/images/security-icon.png',
-      'assets/images/rest-api-icon.png',
+      // 'assets/images/flutter.png',
+      // 'assets/images/nodejs-icon.png',
+      // 'assets/images/firebase.png',
+      // 'assets/images/security-icon.png',
+      // 'assets/images/rest-api-icon.png',
     ],
-  ),];
+  ),
+  ProjectModel(
+    projectTitle: 'Wgoodi - Petrol Management System',
+    projectDescription: 'Project Overview:\n\n'
+        'Wgoodi is an advanced petrol supply chain management application designed to streamline operations across petrol stations and delivery units. '
+        'The system provides real-time visibility into deliveries, inventory, and sales, enabling efficient resource planning and execution. '
+        'I served as the lead Flutter developer and backend integrator, managing both frontend UI and real-time backend integrations.\n\n'
+        'The platform empowers petrol companies to optimize routes, monitor delivery progress live, manage station-level inventory, and access actionable analytics to improve operational performance.\n\n'
+        'Key Features:\n\n'
+        '1. Delivery Management:\n\n'
+        '   - Real-Time Tracking: Monitor delivery vehicles live with location updates using Google Maps API.\n\n'
+        '   - Route Optimization: Suggests the most efficient paths using GPS and traffic data.\n\n'
+        '2. Inventory Control:\n\n'
+        '   - Stock Monitoring: Stations can track incoming and outgoing petrol in real-time.\n\n'
+        '   - Low Stock Alerts: Automatically notifies when inventory falls below defined thresholds.\n\n'
+        '3. Sales Logging:\n\n'
+        '   - Daily Sales Records: Allows stations to log sales activities and view summaries.\n\n'
+        '   - Sync Across Devices: Ensures sales and inventory updates are reflected system-wide instantly.\n\n'
+        '4. Real-Time Communication:\n\n'
+        '   - Socket.IO Integration: Live status updates on delivery, stock changes, and internal notifications.\n\n'
+        '5. Analytics & Reporting:\n\n'
+        '   - Dashboard: Shows KPIs, station performance, and delivery metrics.\n\n'
+        '   - Reports: Downloadable daily, weekly, and monthly operational summaries.\n\n'
+        'Technical Specifications:\n\n'
+        '- Frontend: Built using Flutter for cross-platform support with adaptive UI components.\n\n'
+        '- Backend: Integrated with REST APIs and real-time data streams via Socket.IO.\n\n'
+        '- Maps Integration: Google Maps API for real-time location tracking and route suggestions.\n\n'
+        '- Notifications: In-app alerts and push notifications for events like delivery completion or low inventory.\n\n'
+        '- Authentication: Secure login and role-based access control for different staff levels.\n\n'
+        '- Data Sync: Real-time synchronization between mobile apps and centralized backend.\n\n',
+    shortDescription:
+        'A real-time petrol supply chain management app for tracking deliveries, managing inventory, logging sales, and viewing performance dashboards across fuel stations.',
+    bannerList: [
+      'assets/images/wagoodi.png',
+     
+    ],
+    projectIcon: 'assets/project_banners/wgoodi_logo.png',
+    projectGithubLink: '',
+    projectLiveLink:
+        'https://youtu.be/wgoodi_demo_link', // Replace with actual demo link if available
+    techStackIconList: [
+      // 'assets/images/flutter.png',
+      // 'assets/images/restapi-icon.png',
+      // 'assets/images/socketio-icon.png',
+      // 'assets/images/google-maps.png',
+      // 'assets/images/dashboard-icon.png',
+      // 'assets/images/analytics-icon.png',
+      // 'assets/images/inventory-icon.png',
+    ],
+  ),
+  ProjectModel(
+    projectTitle: 'Examberry - Reasoning Practice App',
+    projectDescription: 'Project Overview:\n\n'
+        'Examberry is an educational mobile application designed to help students prepare for Verbal and Non-Verbal Reasoning exams. '
+        'It offers interactive practice sessions, mock tests, and performance analytics in an engaging, distraction-free interface. '
+        'I worked as the Flutter developer for this project, managing the full frontend and local data storage for a smooth offline experience.\n\n'
+        'The app empowers learners to improve their reasoning skills through structured practice modes and personalized performance tracking.\n\n'
+        'Key Features:\n\n'
+        '1. Practice Modes:\n\n'
+        '   - Practice by Type: Users can attempt 16-question sets with real-time hints and explanations to strengthen specific reasoning areas.\n\n'
+        '   - Mock Tests: Full-length test mode simulates exam conditions and reveals answers with detailed feedback after completion.\n\n'
+        '2. Performance Tracking:\n\n'
+        '   - Results Summary: Displays number of Correct, Incorrect, and Skipped questions for each test attempt.\n\n'
+        '   - Progress History: Keeps a record of all previous tests and scores for review.\n\n'
+        '3. Offline Capability:\n\n'
+        '   - Local Storage: Built with `sqflite` to manage questions, test results, and user data completely offline.\n\n'
+        '4. UI/UX Design:\n\n'
+        '   - Minimalist and Focused: Clean, distraction-free test interface designed for ease of use and maximum engagement during test sessions.\n\n'
+        'Technical Specifications:\n\n'
+        '- Frontend: Developed using Flutter for a smooth and responsive cross-platform UI.\n\n'
+        '- Local Database: Utilized Sqflite for efficient offline question storage and user tracking.\n\n'
+        '- State Management: Lightweight and efficient state handling for performance during timed tests.\n\n'
+        '- Design: Test-focused layout with intuitive navigation and feedback mechanisms for learners.\n\n',
+    shortDescription:
+        'An exam preparation app for Verbal and Non-Verbal Reasoning with practice modes, mock tests, offline support using sqflite, and performance tracking.',
+    bannerList: [
+      'assets/images/examberry.png',
+  
+    ],
+    projectIcon: 'assets/project_banners/examberry_logo.png',
+    projectGithubLink: '',
+    projectLiveLink:
+        'https://youtu.be/examberry_demo_link', // Replace with actual demo link if available
+    techStackIconList: [
+      // 'assets/images/flutter.png',
+      // 'assets/images/sqflite-icon.png',
+      // 'assets/images/offline-icon.png',
+      // 'assets/images/mocktest-icon.png',
+      // 'assets/images/analytics-icon.png',
+      // 'assets/images/education-icon.png',
+    ],
+  ),
+  ProjectModel(
+    projectTitle: 'Powermate - Time Management App',
+    projectDescription: 'Project Overview:\n\n'
+        'Powermate is a productivity and digital wellness application focused on helping users manage screen time and build healthier app usage habits. '
+        'By combining accountability with gamified elements, Powermate encourages users to take control of their digital routines.\n\n'
+        'I contributed as a Flutter developer on a cross-functional team, collaborating with native developers and backend engineers to deliver critical functionalities such as timer logic, ad integration, and native screen time enforcement via platform channels.\n\n'
+        'Key Features:\n\n'
+        '1. App Time Management:\n\n'
+        '   - App Blocking with Timers: Users can set usage timers for selected apps. Once the timer expires, access is blocked automatically.\n\n'
+        '   - Group Accountability: Users can form groups and send requests to friends for time extensions.\n\n'
+        '2. Unlock Mechanisms:\n\n'
+        '   - In-App Coin System: Users can unlock app access by using coins earned or purchased through in-app purchases.\n\n'
+        '   - Peer Extensions: Time can also be extended by approval from group members, promoting healthy digital habits.\n\n'
+        '3. Native iOS and Android Integration:\n\n'
+        '   - iOS Family Controls: Integrated native APIs to enforce app usage limits and gather screen time analytics.\n\n'
+        '   - Android Usage Access API: Utilized Android\'s native APIs to monitor and restrict app usage based on timers.\n\n'
+        '   - Flutter Platform Channels: Enabled bi-directional communication between Flutter and native (Kotlin/Swift) code for screen time enforcement, app blocking, and ad management.\n\n'
+        '4. Advertisement Integration:\n\n'
+        '   - Native Ads: Displayed ads natively on both Android and iOS using platform-specific ad SDKs via platform channels.\n\n'
+        '   - Rewarded Ads: Allowed users to earn coins by watching ads to extend app usage time.\n\n'
+        '5. Real-Time Sync:\n\n'
+        '   - Firebase: Used for syncing group requests, timer status, user data, and cloud messaging.\n\n'
+        '6. Monetization:\n\n'
+        '   - In-App Purchases: Fully integrated purchase flow for coin bundles to unlock extended app time.\n\n'
+        'Technical Specifications:\n\n'
+        '- Frontend: Flutter (Dart) for cross-platform mobile UI and logic.\n\n'
+        '- Native Bridging: Flutter Platform Channels to communicate with iOS (Swift) and Android (Kotlin) for enforcing restrictions and integrating native SDKs.\n\n'
+        '- Backend & Sync: Firebase Firestore and Cloud Functions for real-time updates and group coordination.\n\n'
+        '- Ads: Native ad integration via AdMob/Google Mobile Ads SDK using platform channels for dynamic ad display.\n\n'
+        '- In-App Purchases: Fully functional in-app store implemented with native purchase APIs bridged through Flutter.\n\n',
+    shortDescription:
+        'A screen-time management app with app timers, group accountability, native app blocking, rewarded ads, and in-app coin unlocking via platform channel integration.',
+    bannerList: [
+      'assets/images/powermet.png',
+      
+    ],
+    projectIcon: 'assets/project_banners/powermate_logo.png',
+    projectGithubLink: '',
+    projectLiveLink:
+        'https://youtu.be/powermate_demo_link', // Replace with actual demo link if available
+    techStackIconList: [
+      // 'assets/images/flutter.png',
+      // 'assets/images/firebase-icon.png',
+      // 'assets/images/ios-icon.png',
+      // 'assets/images/android-icon.png',
+      // 'assets/images/inapp-purchase-icon.png',
+      // 'assets/images/family-control-icon.png',
+      // 'assets/images/platform-channel-icon.png',
+      // 'assets/images/ads-icon.png',
+      // 'assets/images/timer-icon.png',
+      // 'assets/images/group-icon.png',
+    ],
+  ),
+  ProjectModel(
+    projectTitle: 'Nature App - Sustainable Lifestyle Platform',
+    projectDescription: 'Project Overview:\n\n'
+        'Nature App is a mobile platform created to promote sustainable living by connecting users with eco-conscious stores, package-free shopping options, and local businesses focused on reducing environmental impact. '
+        'The app blends discovery tools with educational content and community features to empower users in making responsible lifestyle choices.\n\n'
+        'As a Flutter developer, I contributed to building a seamless multi-role experience (users, store owners, admins) including onboarding, discovery filters, habit tracking, and educational modules.\n\n'
+        'Core Objectives:\n\n'
+        '✔ Encourage Sustainable Shopping – Users can discover low-waste and eco-friendly stores.\n\n'
+        '✔ Support Local Businesses – Enables small businesses to list products, manage store data, and view profit insights.\n\n'
+        '✔ Community Engagement – Offers habit-building, educational lessons, and discussion features via the "Talking Cricket" module.\n\n'
+        '✔ Admin & Business Tools – Dedicated backend logic for store management, product listings, and business analytics.\n\n'
+        'Key Features & Functionalities:\n\n'
+        '1. User-Facing Experience:\n\n'
+        '   - Onboarding Process: Guided introduction through multiple screens to educate users before starting.\n\n'
+        '   - Smart Store Discovery: Filter and explore stores by category (e.g., Supermarkets, Restaurants, Bakery, Fashion).\n\n'
+        '   - Waste-Free Shopping: Dedicated zone highlighting package-free, zero-waste products.\n\n'
+        '   - Recommendations & Sharing: Easily share favorite stores and discover "Top-Rated" listings by the community.\n\n'
+        '   - Business Info: View open hours, location details, and contact info for each listing.\n\n'
+        '2. Talking Cricket – Sustainability Engagement Hub:\n\n'
+        '   A central module for eco-habit tracking and bite-sized sustainability learning.\n\n'
+        '   **A. Notification Management:**\n'
+        '   - Users can customize how often they receive notifications (daily, 3x/week, etc.).\n'
+        '   - Includes reminders for habits, lesson updates.\n\n'
+        '   **B. Active Habits Tracker:**\n'
+        '   - Log and track sustainable actions like "used reusable cup" or "carried grocery bags".\n'
+        '   **User Flow Example:**\n'
+        '   - Choose "3 notifications per week" → Track habit "Used compost bin today" → Read lesson on upcycling → Save to favorites → Later increase frequency to daily.\n\n'
+        '   **Planned Enhancements:**\n'
+        '   - Calendar Reminder Sync\n'
+        '   - Habit Gamification (badges)\n'
+        'Technical Specifications:\n\n'
+        '- Frontend: Flutter (Dart) for clean and responsive cross-platform UI.\n\n'
+        '- Local Storage: Used for saving favorites, habits, and onboarding completion state.\n\n'
+        '- Firebase: Employed for real-time updates, notification delivery, and dynamic content like top-rated listings.\n\n'
+        '- State Management: Efficient logic to handle role-based views (user, store, admin) and module separation.\n\n'
+        '- Platform-Specific APIs: Used for potential calendar integration and native notification enhancements in future releases.\n\n',
+    shortDescription:
+        'An eco-conscious mobile platform connecting users with sustainable stores and helping them track habits, learn green tips.',
+    bannerList: [
+      'assets/images/nature.png',
+    
+    ],
+    projectIcon: 'assets/project_banners/nature_logo.png',
+    projectGithubLink: '',
+    projectLiveLink:
+        'https://youtu.be/nature_demo_link', // Replace with actual demo link if available
+    techStackIconList: [
+      // 'assets/images/flutter.png',
+      // 'assets/images/firebase-icon.png',
+      // 'assets/images/notification-icon.png',
+      // 'assets/images/education-icon.png',
+      // 'assets/images/habit-icon.png',
+      // 'assets/images/store-icon.png',
+      // 'assets/images/bookmark-icon.png',
+      // 'assets/images/user-role-icon.png',
+    ],
+  ),
+];
