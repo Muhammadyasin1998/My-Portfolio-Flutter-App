@@ -31,10 +31,10 @@ class AppConstants{
   ];
 
   static const List<String> socialLinks = [
-    "https://www.linkedin.com/in/mdaniyalnoor",
-    "https://github.com/MuhammadDaniyal32",
-    "mailto:m.daniyalnoor32@gmail.com",
-    "https://wa.me/+923332906880"
+    "linkedin.com/in/muhammadyasin1998",
+    "github.com/Muhammadyasin1998",
+    "mailto:yasin.ptcp@gmail.com",
+    "https://wa.me/+9233329424851"
   ];
 
   //contact list
@@ -69,5 +69,5 @@ class AppConstants{
   ];
 
   // resume link
-  static const String resumeLink = 'https://drive.google.com/file/d/1_eyokONeuDTVplu6GYP7UcYJCL_t_dHI/view?usp=sharing';
+  static const String resumeLink = 'https://drive.google.com/file/d/1bC1kkWbIL4ovAkgcUDFaBFbRrazf82PA/view?usp=drive_link';
 }
